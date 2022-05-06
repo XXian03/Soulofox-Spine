@@ -1,0 +1,648 @@
+{ "skeleton": { "images": "C:/Users/Liew/OneDrive/Desktop/Soulofox/PSB Files/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Paper", "bone": "root" },
+	{ "name": "Orange Fur_Front_Tail", "bone": "root", "attachment": "Orange Fur_Front_Tail" },
+	{ "name": "Bow Arrow_Front_Back Weapon", "bone": "root", "attachment": "Bow Arrow_Front_Back Weapon" },
+	{ "name": "Orange Fur_Front_Left Arm", "bone": "root", "attachment": "Orange Fur_Front_Left Arm" },
+	{ "name": "Orange Fur_Front_Left Finger", "bone": "root", "attachment": "Orange Fur_Front_Left Finger" },
+	{ "name": "Orange Fur_Front_Left Shoulder", "bone": "root", "attachment": "Orange Fur_Front_Left Shoulder" },
+	{ "name": "Orange Fur_Front_Left Leg", "bone": "root", "attachment": "Orange Fur_Front_Left Leg" },
+	{ "name": "Orange Fur_Front_Left Thigh", "bone": "root", "attachment": "Orange Fur_Front_Left Thigh" },
+	{ "name": "Orange Fur_Front_Left Foot", "bone": "root", "attachment": "Orange Fur_Front_Left Foot" },
+	{ "name": "Rifleman Outfit_Front_Left Shoes_Apparel", "bone": "root", "attachment": "Rifleman Outfit_Front_Left Shoes_Apparel" },
+	{ "name": "Orange Fur_Front_Right Thigh", "bone": "root", "attachment": "Orange Fur_Front_Right Thigh" },
+	{ "name": "Orange Fur_Front_Right Leg", "bone": "root", "attachment": "Orange Fur_Front_Right Leg" },
+	{ "name": "Orange Fur_Front_Right Foot", "bone": "root", "attachment": "Orange Fur_Front_Right Foot" },
+	{ "name": "Rifleman Outfit_Front_Right Shoes_Apparel", "bone": "root", "attachment": "Rifleman Outfit_Front_Right Shoes_Apparel" },
+	{ "name": "Orange Fur_Front_Body", "bone": "root", "attachment": "Orange Fur_Front_Body" },
+	{ "name": "Rifleman Outfit_Front_Apparel", "bone": "root", "attachment": "Rifleman Outfit_Front_Apparel" },
+	{ "name": "Orange Fur_Front_Head", "bone": "root", "attachment": "Orange Fur_Front_Head" },
+	{ "name": "Lila Eyes_Front_Eyes", "bone": "root", "attachment": "Lila Eyes_Front_Eyes" },
+	{ "name": "Black Glasses_Front_Face Accessory", "bone": "root", "attachment": "Black Glasses_Front_Face Accessory" },
+	{ "name": "Orange Fur_Front_Right Shoulder", "bone": "root", "attachment": "Orange Fur_Front_Right Shoulder" },
+	{ "name": "Orange Fur_Front_Right Arm", "bone": "root", "attachment": "Orange Fur_Front_Right Arm" },
+	{ "name": "Orange Fur_Front_Right Palm", "bone": "root", "attachment": "Orange Fur_Front_Right Palm" },
+	{ "name": "Panama_Hat_Front_Hat", "bone": "root", "attachment": "Panama_Hat_Front_Hat" },
+	{ "name": "Silver Sword__Front_Left Hand Sword", "bone": "root", "attachment": "Silver Sword__Front_Left Hand Sword" },
+	{ "name": "Round Wooden Shield_Front_Left Hand Shield", "bone": "root", "attachment": "Round Wooden Shield_Front_Left Hand Shield" },
+	{ "name": "Lantern Stick_Front_Right Hand Sword", "bone": "root", "attachment": "Lantern Stick_Front_Right Hand Sword" },
+	{ "name": "Brown Fur_Front_Tail", "bone": "root", "attachment": "Brown Fur_Front_Tail" },
+	{ "name": "Adventurer Sword_Front_Back Weapon", "bone": "root", "attachment": "Adventurer Sword_Front_Back Weapon" },
+	{ "name": "Brown Fur_Front_Left Arm", "bone": "root", "attachment": "Brown Fur_Front_Left Arm" },
+	{ "name": "Brown Fur_Front_Left Finger", "bone": "root", "attachment": "Brown Fur_Front_Left Finger" },
+	{ "name": "Brown Fur_Front_Left Shoulder", "bone": "root", "attachment": "Brown Fur_Front_Left Shoulder" },
+	{ "name": "Brown Fur_Front_Left Foot", "bone": "root", "attachment": "Brown Fur_Front_Left Foot" },
+	{ "name": "Brown Fur_Front_left Leg", "bone": "root", "attachment": "Brown Fur_Front_left Leg" },
+	{ "name": "Brown Fur_Front_Left Thigh", "bone": "root", "attachment": "Brown Fur_Front_Left Thigh" },
+	{ "name": "Brown Fur_Front_Right Foot", "bone": "root", "attachment": "Brown Fur_Front_Right Foot" },
+	{ "name": "Brown Fur_Front_Right Leg", "bone": "root", "attachment": "Brown Fur_Front_Right Leg" },
+	{ "name": "Brown Fur_Front_Right Thigh", "bone": "root", "attachment": "Brown Fur_Front_Right Thigh" },
+	{ "name": "KungFu Master Robe_Front_Left Arm_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Left Arm_Apparel" },
+	{ "name": "KungFu Master Robe_Front_Left Shoulder_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Left Shoulder_Apparel" },
+	{ "name": "Brown Fur_Front_Body", "bone": "root", "attachment": "Brown Fur_Front_Body" },
+	{ "name": "Brown Fur_Front_Right Shoulder", "bone": "root", "attachment": "Brown Fur_Front_Right Shoulder" },
+	{ "name": "Brown Fur_Front_Right Arm", "bone": "root", "attachment": "Brown Fur_Front_Right Arm" },
+	{ "name": "KungFu Master Robe_Front_Left Shoes_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Left Shoes_Apparel" },
+	{ "name": "KungFu Master Robe_Front_Left Leg _Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Left Leg _Apparel" },
+	{ "name": "KungFu Master Robe_Front_Left Thigh _Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Left Thigh _Apparel" },
+	{ "name": "KungFu Master Robe_Front_Right Shoes_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Right Shoes_Apparel" },
+	{ "name": "KungFu Master Robe_Front_Right Leg _Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Right Leg _Apparel" },
+	{ "name": "KungFu Master Robe_Front_Right Thigh_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Right Thigh_Apparel" },
+	{ "name": "KungFu Master Robe_Front_Body_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Body_Apparel" },
+	{ "name": "KungFu Master Robe_Front_Right Shoulder_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Right Shoulder_Apparel" },
+	{ "name": "Brown Fur_Front_Right Palm", "bone": "root", "attachment": "Brown Fur_Front_Right Palm" },
+	{ "name": "KungFu Master Robe_Front_Right Arm_Apparel", "bone": "root", "attachment": "KungFu Master Robe_Front_Right Arm_Apparel" },
+	{ "name": "Brown Fur_Front_Head", "bone": "root", "attachment": "Brown Fur_Front_Head" },
+	{ "name": "Green Eyes_Front_Eyes", "bone": "root", "attachment": "Green Eyes_Front_Eyes" },
+	{ "name": "Oxford Pipe_Front_Face Accessory", "bone": "root", "attachment": "Oxford Pipe_Front_Face Accessory" },
+	{ "name": "Shooter_Cap_Front_Hat", "bone": "root", "attachment": "Shooter_Cap_Front_Hat" },
+	{ "name": "Hand Wrench_Front_Right Hand Weapon", "bone": "root", "attachment": "Hand Wrench_Front_Right Hand Weapon" },
+	{ "name": "Basic Fishing rod_Front_Left Hand Weapon", "bone": "root", "attachment": "Basic Fishing rod_Front_Left Hand Weapon" },
+	{ "name": "Knight Wooden Shield_Front_Left Hand Shield", "bone": "root", "attachment": "Knight Wooden Shield_Front_Left Hand Shield" },
+	{ "name": "Pink Fur Black Ears_Front_Left Arm", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Arm" },
+	{ "name": "Pink Fur Black Ears_Front_Left Finger", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Finger" },
+	{ "name": "Pink Fur Black Ears_Front_Left Shoulder", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Shoulder" },
+	{ "name": "Pink Fur Black Ears_Front_Left Leg", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Leg" },
+	{ "name": "Pink Fur Black Ears_Front_Left Thigh", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Thigh" },
+	{ "name": "Pink Fur Black Ears_Front_Left Foot", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Foot" },
+	{ "name": "Pink Fur Black Ears_Front_Right Foot", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Foot" },
+	{ "name": "Pink Fur Black Ears_Front_Right Leg", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Leg" },
+	{ "name": "Pink Fur Black Ears_Front_Right Thigh", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Thigh" },
+	{ "name": "Pink Fur Black Ears_Front_Body", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Body" },
+	{ "name": "Knight Armor_Front_Left Shoulder_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Shoulder_Apparel" },
+	{ "name": "Knight Armor_Front_Left Finger_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Finger_Apparel" },
+	{ "name": "Knight Armor_Front_Left Arm_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Arm_Apparel" },
+	{ "name": "Knight Armor_Front_Left Leg _Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Leg _Apparel" },
+	{ "name": "Knight Armor_Front_Left Thigh_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Thigh_Apparel" },
+	{ "name": "Knight Armor_Front_Left Shoe_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Left Shoe_Apparel" },
+	{ "name": "Knight Armor_Front_Right Leg _Apparel", "bone": "root", "attachment": "Knight Armor_Front_Right Leg _Apparel" },
+	{ "name": "Knight Armor_Front_Right Thigh_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Right Thigh_Apparel" },
+	{ "name": "Knight Armor_Front_Right Shoe_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Right Shoe_Apparel" },
+	{ "name": "Knight Armor_Front_Body_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Body_Apparel" },
+	{ "name": "Pink Fur Black Ears_Front_Right Shoulder", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Shoulder" },
+	{ "name": "Pink Fur Black Ears_Front_Left Ear", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Left Ear" },
+	{ "name": "Pink Fur Black Ears_Front_Head", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Head" },
+	{ "name": "Light Blue Eyes_Front_Eyes", "bone": "root", "attachment": "Light Blue Eyes_Front_Eyes" },
+	{ "name": "Face Scar_Front_Face Accessory", "bone": "root", "attachment": "Face Scar_Front_Face Accessory" },
+	{ "name": "Pink Fur Black Ears_Front_Right Ear", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Ear" },
+	{ "name": "Pink Fur Black Ears_Front_Right Arm", "bone": "root", "attachment": "Pink Fur Black Ears_Front_Right Arm" },
+	{ "name": "Pink Fur_Front_Right Palm", "bone": "root", "attachment": "Pink Fur_Front_Right Palm" },
+	{ "name": "Knight Armor_Front_Right Shoulder_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Right Shoulder_Apparel" },
+	{ "name": "Knight Armor_Front_Right Arm_Apparel", "bone": "root", "attachment": "Knight Armor_Front_Right Arm_Apparel" },
+	{ "name": "Knight Armor_Front_Right Palm", "bone": "root", "attachment": "Knight Armor_Front_Right Palm" },
+	{ "name": "Robinhood Hat_Front_Hat", "bone": "root", "attachment": "Robinhood Hat_Front_Hat" },
+	{ "name": "Link Sword_Front_Right Hand Weapon", "bone": "root", "attachment": "Link Sword_Front_Right Hand Weapon" },
+	{ "name": "Olive Fur_Front_Tail", "bone": "root", "attachment": "Olive Fur_Front_Tail" },
+	{ "name": "Olive Fur_Front_Left Arm", "bone": "root", "attachment": "Olive Fur_Front_Left Arm" },
+	{ "name": "Olive Fur_Front_Left Finger", "bone": "root", "attachment": "Olive Fur_Front_Left Finger" },
+	{ "name": "Olive Fur_Front_Left Shoulder", "bone": "root", "attachment": "Olive Fur_Front_Left Shoulder" },
+	{ "name": "Olive Fur_Front_Left Foot", "bone": "root", "attachment": "Olive Fur_Front_Left Foot" },
+	{ "name": "Olive Fur_Front_Left Leg", "bone": "root", "attachment": "Olive Fur_Front_Left Leg" },
+	{ "name": "Olive Fur_Front_Left Thigh", "bone": "root", "attachment": "Olive Fur_Front_Left Thigh" },
+	{ "name": "Olive Fur_Front_Right Foot", "bone": "root", "attachment": "Olive Fur_Front_Right Foot" },
+	{ "name": "Olive Fur_Front_Right Leg", "bone": "root", "attachment": "Olive Fur_Front_Right Leg" },
+	{ "name": "Olive Fur_Front_Right Thigh", "bone": "root", "attachment": "Olive Fur_Front_Right Thigh" },
+	{ "name": "Fire Spear_Front_Back Weapon", "bone": "root", "attachment": "Fire Spear_Front_Back Weapon" },
+	{ "name": "Olive Fur_Front_Body", "bone": "root", "attachment": "Olive Fur_Front_Body" },
+	{ "name": "Olive Fur_Front_Right Shoulder", "bone": "root", "attachment": "Olive Fur_Front_Right Shoulder" },
+	{ "name": "Olive Fur_Front_Right Arm", "bone": "root", "attachment": "Olive Fur_Front_Right Arm" },
+	{ "name": "Desert Fighter Outfit_Front_Left Arm_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Left Arm_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Left Shoulder_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Left Shoulder_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Left Shoe_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Left Shoe_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Left Leg_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Left Leg_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Left Thigh_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Left Thigh_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Right Shoe_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Right Shoe_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Right Thigh_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Right Thigh_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Right Leg_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Right Leg_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Body_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Body_Apparel" },
+	{ "name": "Olive Fur_Front_Right Palm", "bone": "root", "attachment": "Olive Fur_Front_Right Palm" },
+	{ "name": "Desert Fighter Outfit_Front_Right Shoulder_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Right Shoulder_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Right Arm_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Right Arm_Apparel" },
+	{ "name": "Desert Fighter Outfit_Front_Scarf_Apparel", "bone": "root", "attachment": "Desert Fighter Outfit_Front_Scarf_Apparel" },
+	{ "name": "Olive Fur_Front_Left Ear", "bone": "root", "attachment": "Olive Fur_Front_Left Ear" },
+	{ "name": "Olive Fur_Front_Head", "bone": "root", "attachment": "Olive Fur_Front_Head" },
+	{ "name": "Orange Eyes_Front_Eyes", "bone": "root", "attachment": "Orange Eyes_Front_Eyes" },
+	{ "name": "Wooden Glasses_Front_Face Accessory", "bone": "root", "attachment": "Wooden Glasses_Front_Face Accessory" },
+	{ "name": "Magician_Hat_Front_Hat", "bone": "root", "attachment": "Magician_Hat_Front_Hat" },
+	{ "name": "Olive Fur_Front_Right Ear", "bone": "root", "attachment": "Olive Fur_Front_Right Ear" },
+	{ "name": "Fire Torch_Front_Right Hand Weapon", "bone": "root", "attachment": "Fire Torch_Front_Right Hand Weapon" },
+	{ "name": "Orange Fur Black Ears_Front_Tail", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Tail" },
+	{ "name": "Hunter Bow_Front_Back Weapon", "bone": "root", "attachment": "Hunter Bow_Front_Back Weapon" },
+	{ "name": "Orange Fur Black Ears_Front_Left Arm", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Arm" },
+	{ "name": "Orange Fur Black Ears_Front_Left Finger", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Finger" },
+	{ "name": "Orange Fur Black Ears_Front_Left Shoulder", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Shoulder" },
+	{ "name": "Orange Fur Black Ears_Front_Left Foot", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Foot" },
+	{ "name": "Orange Fur Black Ears_Front_Left Leg", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Leg" },
+	{ "name": "Orange Fur Black Ears_Front_Left Thigh", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Left Thigh" },
+	{ "name": "Orange Fur Black Ears_Front_Right Foot", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Foot" },
+	{ "name": "Orange Fur Black Ears_Front_Right Leg", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Leg" },
+	{ "name": "Orange Fur Black Ears_Front_Right Thigh", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Thigh" },
+	{ "name": "Orange Fur Black Ears_Front_Right Shoulder", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Shoulder" },
+	{ "name": "Orange Fur Black Ears_Front_Right Arm", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Arm" },
+	{ "name": "Merchant Outfit_Front_Left Arm_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Left Arm_Apparel" },
+	{ "name": "Merchant Outfit_Front_Left Shoulder_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Left Shoulder_Apparel" },
+	{ "name": "Orange Fur Black Ears_Front_Body", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Body" },
+	{ "name": "Merchant Outfit_Front_Left Shoe_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Left Shoe_Apparel" },
+	{ "name": "Merchant Outfit_Front_Left Leg_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Left Leg_Apparel" },
+	{ "name": "Merchant Outfit_Front_Left Thigh_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Left Thigh_Apparel" },
+	{ "name": "Merchant Outfit_Front_Right Shoe_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Right Shoe_Apparel" },
+	{ "name": "Merchant Outfit_Front_Right Tight_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Right Tight_Apparel" },
+	{ "name": "Merchant Outfit_Front_Right Leg_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Right Leg_Apparel" },
+	{ "name": "Merchant Outfit_Front_Body_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Body_Apparel" },
+	{ "name": "Orange Fur Black Ears_Front_Right Palm", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Right Palm" },
+	{ "name": "Merchant Outfit_Front_Right Shoulder_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Right Shoulder_Apparel" },
+	{ "name": "Merchant Outfit_Front_Right Arm_Apparel", "bone": "root", "attachment": "Merchant Outfit_Front_Right Arm_Apparel" },
+	{ "name": "Orange Fur Black Ears_Front_Head", "bone": "root", "attachment": "Orange Fur Black Ears_Front_Head" },
+	{ "name": "Dark Green Eyes_Front_Eyes", "bone": "root", "attachment": "Dark Green Eyes_Front_Eyes" },
+	{ "name": "Monocles_Front_Face Accessory", "bone": "root", "attachment": "Monocles_Front_Face Accessory" },
+	{ "name": "Hygrocybe_Conica_Front_Hat", "bone": "root", "attachment": "Hygrocybe_Conica_Front_Hat" },
+	{ "name": "Copper Candle Holder_Front_Left Hand_Shield", "bone": "root", "attachment": "Copper Candle Holder_Front_Left Hand_Shield" },
+	{ "name": "Japanese Lantern_Front_Right Hand Weapon", "bone": "root", "attachment": "Japanese Lantern_Front_Right Hand Weapon" },
+	{ "name": "Shovel_Front_Left Hand Weapon", "bone": "root", "attachment": "Shovel_Front_Left Hand Weapon" }
+],
+"skins": {
+	"default": {
+		"Paper": {
+			"Paper": { "x": 757.5, "y": -431, "width": 1517, "height": 864 }
+		},
+		"Orange Fur_Front_Tail": {
+			"Orange Fur_Front_Tail": { "x": 537.5, "y": -629, "width": 165, "height": 180 }
+		},
+		"Bow Arrow_Front_Back Weapon": {
+			"Bow Arrow_Front_Back Weapon": { "x": 658.5, "y": -614.5, "width": 195, "height": 279 }
+		},
+		"Orange Fur_Front_Left Arm": {
+			"Orange Fur_Front_Left Arm": { "x": 688.5, "y": -608, "width": 57, "height": 98 }
+		},
+		"Orange Fur_Front_Left Finger": {
+			"Orange Fur_Front_Left Finger": { "x": 717.5, "y": -667, "width": 59, "height": 68 }
+		},
+		"Orange Fur_Front_Left Shoulder": {
+			"Orange Fur_Front_Left Shoulder": { "x": 680, "y": -593.5, "width": 56, "height": 79 }
+		},
+		"Orange Fur_Front_Left Leg": {
+			"Orange Fur_Front_Left Leg": { "x": 685, "y": -733.5, "width": 46, "height": 73 }
+		},
+		"Orange Fur_Front_Left Thigh": {
+			"Orange Fur_Front_Left Thigh": { "x": 672, "y": -683, "width": 74, "height": 106 }
+		},
+		"Orange Fur_Front_Left Foot": {
+			"Orange Fur_Front_Left Foot": { "x": 707.5, "y": -775, "width": 79, "height": 58 }
+		},
+		"Rifleman Outfit_Front_Left Shoes_Apparel": {
+			"Rifleman Outfit_Front_Left Shoes_Apparel": { "x": 697, "y": -769, "width": 94, "height": 82 }
+		},
+		"Orange Fur_Front_Right Thigh": {
+			"Orange Fur_Front_Right Thigh": { "x": 628.5, "y": -682.5, "width": 71, "height": 103 }
+		},
+		"Orange Fur_Front_Right Leg": {
+			"Orange Fur_Front_Right Leg": { "x": 610, "y": -733, "width": 74, "height": 78 }
+		},
+		"Orange Fur_Front_Right Foot": {
+			"Orange Fur_Front_Right Foot": { "x": 610, "y": -779, "width": 88, "height": 50 }
+		},
+		"Rifleman Outfit_Front_Right Shoes_Apparel": {
+			"Rifleman Outfit_Front_Right Shoes_Apparel": { "x": 605, "y": -762, "width": 96, "height": 96 }
+		},
+		"Orange Fur_Front_Body": {
+			"Orange Fur_Front_Body": { "x": 646.5, "y": -609.5, "width": 103, "height": 159 }
+		},
+		"Rifleman Outfit_Front_Apparel": {
+			"Rifleman Outfit_Front_Apparel": { "x": 643.5, "y": -612, "width": 99, "height": 88 }
+		},
+		"Orange Fur_Front_Head": {
+			"Orange Fur_Front_Head": { "x": 624.5, "y": -430, "width": 253, "height": 266 }
+		},
+		"Lila Eyes_Front_Eyes": {
+			"Lila Eyes_Front_Eyes": { "x": 674, "y": -482, "width": 132, "height": 50 }
+		},
+		"Black Glasses_Front_Face Accessory": {
+			"Black Glasses_Front_Face Accessory": { "x": 659.5, "y": -492, "width": 193, "height": 60 }
+		},
+		"Orange Fur_Front_Right Shoulder": {
+			"Orange Fur_Front_Right Shoulder": { "x": 598.5, "y": -591, "width": 61, "height": 84 }
+		},
+		"Orange Fur_Front_Right Arm": {
+			"Orange Fur_Front_Right Arm": { "x": 587, "y": -627.5, "width": 52, "height": 59 }
+		},
+		"Orange Fur_Front_Right Palm": {
+			"Orange Fur_Front_Right Palm": { "x": 585.5, "y": -668.5, "width": 69, "height": 73 }
+		},
+		"Panama_Hat_Front_Hat": {
+			"Panama_Hat_Front_Hat": { "x": 648.5, "y": -410, "width": 311, "height": 188 }
+		},
+		"Silver Sword__Front_Left Hand Sword": {
+			"Silver Sword__Front_Left Hand Sword": { "x": 246.5, "y": -372.5, "width": 315, "height": 183 }
+		},
+		"Round Wooden Shield_Front_Left Hand Shield": {
+			"Round Wooden Shield_Front_Left Hand Shield": { "x": 120.5, "y": -129, "width": 151, "height": 232 }
+		},
+		"Lantern Stick_Front_Right Hand Sword": {
+			"Lantern Stick_Front_Right Hand Sword": { "x": 214, "y": -642.5, "width": 360, "height": 159 }
+		},
+		"Brown Fur_Front_Tail": {
+			"Brown Fur_Front_Tail": { "x": 537.5, "y": -625, "width": 165, "height": 180 }
+		},
+		"Adventurer Sword_Front_Back Weapon": {
+			"Adventurer Sword_Front_Back Weapon": { "x": 626.5, "y": -617, "width": 197, "height": 196 }
+		},
+		"Brown Fur_Front_Left Arm": {
+			"Brown Fur_Front_Left Arm": { "x": 688.5, "y": -604, "width": 57, "height": 98 }
+		},
+		"Brown Fur_Front_Left Finger": {
+			"Brown Fur_Front_Left Finger": { "x": 717.5, "y": -663, "width": 59, "height": 68 }
+		},
+		"Brown Fur_Front_Left Shoulder": {
+			"Brown Fur_Front_Left Shoulder": { "x": 680, "y": -589.5, "width": 56, "height": 79 }
+		},
+		"Brown Fur_Front_Left Foot": {
+			"Brown Fur_Front_Left Foot": { "x": 707.5, "y": -771, "width": 79, "height": 58 }
+		},
+		"Brown Fur_Front_left Leg": {
+			"Brown Fur_Front_left Leg": { "x": 685, "y": -729.5, "width": 46, "height": 73 }
+		},
+		"Brown Fur_Front_Left Thigh": {
+			"Brown Fur_Front_Left Thigh": { "x": 672, "y": -679, "width": 74, "height": 106 }
+		},
+		"Brown Fur_Front_Right Foot": {
+			"Brown Fur_Front_Right Foot": { "x": 610, "y": -770, "width": 88, "height": 60 }
+		},
+		"Brown Fur_Front_Right Leg": {
+			"Brown Fur_Front_Right Leg": { "x": 610, "y": -729, "width": 74, "height": 78 }
+		},
+		"Brown Fur_Front_Right Thigh": {
+			"Brown Fur_Front_Right Thigh": { "x": 627.5, "y": -678, "width": 67, "height": 102 }
+		},
+		"KungFu Master Robe_Front_Left Arm_Apparel": {
+			"KungFu Master Robe_Front_Left Arm_Apparel": { "x": 701, "y": -623.5, "width": 62, "height": 63 }
+		},
+		"KungFu Master Robe_Front_Left Shoulder_Apparel": {
+			"KungFu Master Robe_Front_Left Shoulder_Apparel": { "x": 685.5, "y": -587, "width": 67, "height": 72 }
+		},
+		"Brown Fur_Front_Body": {
+			"Brown Fur_Front_Body": { "x": 646.5, "y": -605.5, "width": 103, "height": 159 }
+		},
+		"Brown Fur_Front_Right Shoulder": {
+			"Brown Fur_Front_Right Shoulder": { "x": 598.5, "y": -587, "width": 61, "height": 84 }
+		},
+		"Brown Fur_Front_Right Arm": {
+			"Brown Fur_Front_Right Arm": { "x": 587, "y": -623.5, "width": 52, "height": 59 }
+		},
+		"KungFu Master Robe_Front_Left Shoes_Apparel": {
+			"KungFu Master Robe_Front_Left Shoes_Apparel": { "x": 707, "y": -776.5, "width": 82, "height": 41 }
+		},
+		"KungFu Master Robe_Front_Left Leg _Apparel": {
+			"KungFu Master Robe_Front_Left Leg _Apparel": { "x": 704, "y": -740, "width": 110, "height": 108 }
+		},
+		"KungFu Master Robe_Front_Left Thigh _Apparel": {
+			"KungFu Master Robe_Front_Left Thigh _Apparel": { "x": 676, "y": -692.5, "width": 72, "height": 65 }
+		},
+		"KungFu Master Robe_Front_Right Shoes_Apparel": {
+			"KungFu Master Robe_Front_Right Shoes_Apparel": { "x": 610.5, "y": -773, "width": 89, "height": 48 }
+		},
+		"KungFu Master Robe_Front_Right Leg _Apparel": {
+			"KungFu Master Robe_Front_Right Leg _Apparel": { "x": 609, "y": -730, "width": 90, "height": 84 }
+		},
+		"KungFu Master Robe_Front_Right Thigh_Apparel": {
+			"KungFu Master Robe_Front_Right Thigh_Apparel": { "x": 625.5, "y": -693.5, "width": 69, "height": 63 }
+		},
+		"KungFu Master Robe_Front_Body_Apparel": {
+			"KungFu Master Robe_Front_Body_Apparel": { "x": 649.5, "y": -631.5, "width": 127, "height": 183 }
+		},
+		"KungFu Master Robe_Front_Right Shoulder_Apparel": {
+			"KungFu Master Robe_Front_Right Shoulder_Apparel": { "x": 594.5, "y": -586.5, "width": 67, "height": 79 }
+		},
+		"Brown Fur_Front_Right Palm": {
+			"Brown Fur_Front_Right Palm": { "x": 581.5, "y": -667.5, "width": 71, "height": 75 }
+		},
+		"KungFu Master Robe_Front_Right Arm_Apparel": {
+			"KungFu Master Robe_Front_Right Arm_Apparel": { "x": 586, "y": -619.5, "width": 86, "height": 79 }
+		},
+		"Brown Fur_Front_Head": {
+			"Brown Fur_Front_Head": { "x": 624.5, "y": -426, "width": 253, "height": 266 }
+		},
+		"Green Eyes_Front_Eyes": {
+			"Green Eyes_Front_Eyes": { "x": 674, "y": -478, "width": 132, "height": 50 }
+		},
+		"Oxford Pipe_Front_Face Accessory": {
+			"Oxford Pipe_Front_Face Accessory": { "x": 748.5, "y": -551, "width": 79, "height": 74 }
+		},
+		"Shooter_Cap_Front_Hat": {
+			"Shooter_Cap_Front_Hat": { "x": 851.5, "y": -368.5, "width": 551, "height": 105 }
+		},
+		"Hand Wrench_Front_Right Hand Weapon": {
+			"Hand Wrench_Front_Right Hand Weapon": { "x": 213, "y": -657, "width": 122, "height": 76 }
+		},
+		"Basic Fishing rod_Front_Left Hand Weapon": {
+			"Basic Fishing rod_Front_Left Hand Weapon": { "x": 215.5, "y": -387.5, "width": 241, "height": 125 }
+		},
+		"Knight Wooden Shield_Front_Left Hand Shield": {
+			"Knight Wooden Shield_Front_Left Hand Shield": { "x": 93.5, "y": -130, "width": 93, "height": 218 }
+		},
+		"Pink Fur Black Ears_Front_Left Arm": {
+			"Pink Fur Black Ears_Front_Left Arm": { "x": 688.5, "y": -608, "width": 57, "height": 98 }
+		},
+		"Pink Fur Black Ears_Front_Left Finger": {
+			"Pink Fur Black Ears_Front_Left Finger": { "x": 717.5, "y": -667, "width": 59, "height": 68 }
+		},
+		"Pink Fur Black Ears_Front_Left Shoulder": {
+			"Pink Fur Black Ears_Front_Left Shoulder": { "x": 680, "y": -593.5, "width": 56, "height": 79 }
+		},
+		"Pink Fur Black Ears_Front_Left Leg": {
+			"Pink Fur Black Ears_Front_Left Leg": { "x": 685, "y": -733.5, "width": 46, "height": 73 }
+		},
+		"Pink Fur Black Ears_Front_Left Thigh": {
+			"Pink Fur Black Ears_Front_Left Thigh": { "x": 672, "y": -683, "width": 74, "height": 106 }
+		},
+		"Pink Fur Black Ears_Front_Left Foot": {
+			"Pink Fur Black Ears_Front_Left Foot": { "x": 707.5, "y": -775, "width": 79, "height": 58 }
+		},
+		"Pink Fur Black Ears_Front_Right Foot": {
+			"Pink Fur Black Ears_Front_Right Foot": { "x": 610, "y": -774, "width": 88, "height": 60 }
+		},
+		"Pink Fur Black Ears_Front_Right Leg": {
+			"Pink Fur Black Ears_Front_Right Leg": { "x": 610, "y": -733, "width": 74, "height": 78 }
+		},
+		"Pink Fur Black Ears_Front_Right Thigh": {
+			"Pink Fur Black Ears_Front_Right Thigh": { "x": 628.5, "y": -686.5, "width": 71, "height": 111 }
+		},
+		"Pink Fur Black Ears_Front_Body": {
+			"Pink Fur Black Ears_Front_Body": { "x": 646.5, "y": -611.5, "width": 103, "height": 155 }
+		},
+		"Knight Armor_Front_Left Shoulder_Apparel": {
+			"Knight Armor_Front_Left Shoulder_Apparel": { "x": 711, "y": -622.5, "width": 84, "height": 145 }
+		},
+		"Knight Armor_Front_Left Finger_Apparel": {
+			"Knight Armor_Front_Left Finger_Apparel": { "x": 722, "y": -667.5, "width": 62, "height": 67 }
+		},
+		"Knight Armor_Front_Left Arm_Apparel": {
+			"Knight Armor_Front_Left Arm_Apparel": { "x": 707.5, "y": -639, "width": 51, "height": 46 }
+		},
+		"Knight Armor_Front_Left Leg _Apparel": {
+			"Knight Armor_Front_Left Leg _Apparel": { "x": 686, "y": -739.5, "width": 54, "height": 71 }
+		},
+		"Knight Armor_Front_Left Thigh_Apparel": {
+			"Knight Armor_Front_Left Thigh_Apparel": { "x": 678, "y": -699, "width": 62, "height": 72 }
+		},
+		"Knight Armor_Front_Left Shoe_Apparel": {
+			"Knight Armor_Front_Left Shoe_Apparel": { "x": 706.5, "y": -762.5, "width": 87, "height": 79 }
+		},
+		"Knight Armor_Front_Right Leg _Apparel": {
+			"Knight Armor_Front_Right Leg _Apparel": { "x": 598, "y": -741, "width": 96, "height": 68 }
+		},
+		"Knight Armor_Front_Right Thigh_Apparel": {
+			"Knight Armor_Front_Right Thigh_Apparel": { "x": 625.5, "y": -698, "width": 65, "height": 74 }
+		},
+		"Knight Armor_Front_Right Shoe_Apparel": {
+			"Knight Armor_Front_Right Shoe_Apparel": { "x": 607, "y": -769.5, "width": 80, "height": 67 }
+		},
+		"Knight Armor_Front_Body_Apparel": {
+			"Knight Armor_Front_Body_Apparel": { "x": 640.5, "y": -660, "width": 191, "height": 220 }
+		},
+		"Pink Fur Black Ears_Front_Right Shoulder": {
+			"Pink Fur Black Ears_Front_Right Shoulder": { "x": 598.5, "y": -591, "width": 61, "height": 84 }
+		},
+		"Pink Fur Black Ears_Front_Left Ear": {
+			"Pink Fur Black Ears_Front_Left Ear": { "x": 689, "y": -369.5, "width": 90, "height": 145 }
+		},
+		"Pink Fur Black Ears_Front_Head": {
+			"Pink Fur Black Ears_Front_Head": { "x": 643, "y": -463.5, "width": 216, "height": 199 }
+		},
+		"Light Blue Eyes_Front_Eyes": {
+			"Light Blue Eyes_Front_Eyes": { "x": 674, "y": -482, "width": 132, "height": 50 }
+		},
+		"Face Scar_Front_Face Accessory": {
+			"Face Scar_Front_Face Accessory": { "x": 623.5, "y": -481.5, "width": 101, "height": 111 }
+		},
+		"Pink Fur Black Ears_Front_Right Ear": {
+			"Pink Fur Black Ears_Front_Right Ear": { "x": 563.5, "y": -400, "width": 131, "height": 204 }
+		},
+		"Pink Fur Black Ears_Front_Right Arm": {
+			"Pink Fur Black Ears_Front_Right Arm": { "x": 587, "y": -627.5, "width": 52, "height": 59 }
+		},
+		"Pink Fur_Front_Right Palm": {
+			"Pink Fur_Front_Right Palm": { "x": 581.5, "y": -667.5, "width": 71, "height": 75 }
+		},
+		"Knight Armor_Front_Right Shoulder_Apparel": {
+			"Knight Armor_Front_Right Shoulder_Apparel": { "x": 598, "y": -616.5, "width": 74, "height": 145 }
+		},
+		"Knight Armor_Front_Right Arm_Apparel": {
+			"Knight Armor_Front_Right Arm_Apparel": { "x": 583, "y": -642.5, "width": 54, "height": 63 }
+		},
+		"Knight Armor_Front_Right Palm": {
+			"Knight Armor_Front_Right Palm": { "x": 581, "y": -674, "width": 72, "height": 68 }
+		},
+		"Robinhood Hat_Front_Hat": {
+			"Robinhood Hat_Front_Hat": { "x": 647, "y": -383.5, "width": 136, "height": 151 }
+		},
+		"Link Sword_Front_Right Hand Weapon": {
+			"Link Sword_Front_Right Hand Weapon": { "x": 235.5, "y": -651, "width": 381, "height": 154 }
+		},
+		"Olive Fur_Front_Tail": {
+			"Olive Fur_Front_Tail": { "x": 537.5, "y": -629, "width": 165, "height": 180 }
+		},
+		"Olive Fur_Front_Left Arm": {
+			"Olive Fur_Front_Left Arm": { "x": 688.5, "y": -608, "width": 57, "height": 98 }
+		},
+		"Olive Fur_Front_Left Finger": {
+			"Olive Fur_Front_Left Finger": { "x": 717.5, "y": -667, "width": 59, "height": 68 }
+		},
+		"Olive Fur_Front_Left Shoulder": {
+			"Olive Fur_Front_Left Shoulder": { "x": 680, "y": -593.5, "width": 56, "height": 79 }
+		},
+		"Olive Fur_Front_Left Foot": {
+			"Olive Fur_Front_Left Foot": { "x": 707.5, "y": -775, "width": 79, "height": 58 }
+		},
+		"Olive Fur_Front_Left Leg": {
+			"Olive Fur_Front_Left Leg": { "x": 685, "y": -733.5, "width": 46, "height": 73 }
+		},
+		"Olive Fur_Front_Left Thigh": {
+			"Olive Fur_Front_Left Thigh": { "x": 672, "y": -683, "width": 74, "height": 106 }
+		},
+		"Olive Fur_Front_Right Foot": {
+			"Olive Fur_Front_Right Foot": { "x": 610, "y": -774, "width": 88, "height": 60 }
+		},
+		"Olive Fur_Front_Right Leg": {
+			"Olive Fur_Front_Right Leg": { "x": 610, "y": -733, "width": 74, "height": 78 }
+		},
+		"Olive Fur_Front_Right Thigh": {
+			"Olive Fur_Front_Right Thigh": { "x": 628.5, "y": -682, "width": 71, "height": 102 }
+		},
+		"Fire Spear_Front_Back Weapon": {
+			"Fire Spear_Front_Back Weapon": { "x": 592.5, "y": -593.5, "width": 301, "height": 309 }
+		},
+		"Olive Fur_Front_Body": {
+			"Olive Fur_Front_Body": { "x": 646.5, "y": -609.5, "width": 103, "height": 159 }
+		},
+		"Olive Fur_Front_Right Shoulder": {
+			"Olive Fur_Front_Right Shoulder": { "x": 598.5, "y": -591, "width": 61, "height": 84 }
+		},
+		"Olive Fur_Front_Right Arm": {
+			"Olive Fur_Front_Right Arm": { "x": 587, "y": -627.5, "width": 52, "height": 59 }
+		},
+		"Desert Fighter Outfit_Front_Left Arm_Apparel": {
+			"Desert Fighter Outfit_Front_Left Arm_Apparel": { "x": 698.5, "y": -625.5, "width": 63, "height": 59 }
+		},
+		"Desert Fighter Outfit_Front_Left Shoulder_Apparel": {
+			"Desert Fighter Outfit_Front_Left Shoulder_Apparel": { "x": 685.5, "y": -593, "width": 67, "height": 78 }
+		},
+		"Desert Fighter Outfit_Front_Left Shoe_Apparel": {
+			"Desert Fighter Outfit_Front_Left Shoe_Apparel": { "x": 707.5, "y": -775, "width": 79, "height": 58 }
+		},
+		"Desert Fighter Outfit_Front_Left Leg_Apparel": {
+			"Desert Fighter Outfit_Front_Left Leg_Apparel": { "x": 682, "y": -734, "width": 66, "height": 84 }
+		},
+		"Desert Fighter Outfit_Front_Left Thigh_Apparel": {
+			"Desert Fighter Outfit_Front_Left Thigh_Apparel": { "x": 677.5, "y": -680.5, "width": 69, "height": 97 }
+		},
+		"Desert Fighter Outfit_Front_Right Shoe_Apparel": {
+			"Desert Fighter Outfit_Front_Right Shoe_Apparel": { "x": 610, "y": -774, "width": 88, "height": 60 }
+		},
+		"Desert Fighter Outfit_Front_Right Thigh_Apparel": {
+			"Desert Fighter Outfit_Front_Right Thigh_Apparel": { "x": 622, "y": -679.5, "width": 62, "height": 99 }
+		},
+		"Desert Fighter Outfit_Front_Right Leg_Apparel": {
+			"Desert Fighter Outfit_Front_Right Leg_Apparel": { "x": 646.5, "y": -682.5, "width": 155, "height": 209 }
+		},
+		"Desert Fighter Outfit_Front_Body_Apparel": {
+			"Desert Fighter Outfit_Front_Body_Apparel": { "x": 624.5, "y": -641, "width": 179, "height": 174 }
+		},
+		"Olive Fur_Front_Right Palm": {
+			"Olive Fur_Front_Right Palm": { "x": 586.5, "y": -667.5, "width": 71, "height": 75 }
+		},
+		"Desert Fighter Outfit_Front_Right Shoulder_Apparel": {
+			"Desert Fighter Outfit_Front_Right Shoulder_Apparel": { "x": 588.5, "y": -603.5, "width": 65, "height": 103 }
+		},
+		"Desert Fighter Outfit_Front_Right Arm_Apparel": {
+			"Desert Fighter Outfit_Front_Right Arm_Apparel": { "x": 585, "y": -634.5, "width": 62, "height": 71 }
+		},
+		"Desert Fighter Outfit_Front_Scarf_Apparel": {
+			"Desert Fighter Outfit_Front_Scarf_Apparel": { "x": 627.5, "y": -544.5, "width": 207, "height": 129 }
+		},
+		"Olive Fur_Front_Left Ear": {
+			"Olive Fur_Front_Left Ear": { "x": 689, "y": -369.5, "width": 90, "height": 145 }
+		},
+		"Olive Fur_Front_Head": {
+			"Olive Fur_Front_Head": { "x": 643, "y": -463.5, "width": 216, "height": 199 }
+		},
+		"Orange Eyes_Front_Eyes": {
+			"Orange Eyes_Front_Eyes": { "x": 674, "y": -482, "width": 132, "height": 50 }
+		},
+		"Wooden Glasses_Front_Face Accessory": {
+			"Wooden Glasses_Front_Face Accessory": { "x": 684.5, "y": -487, "width": 141, "height": 58 }
+		},
+		"Magician_Hat_Front_Hat": {
+			"Magician_Hat_Front_Hat": { "x": 686, "y": -357, "width": 228, "height": 154 }
+		},
+		"Olive Fur_Front_Right Ear": {
+			"Olive Fur_Front_Right Ear": { "x": 563.5, "y": -400, "width": 131, "height": 204 }
+		},
+		"Fire Torch_Front_Right Hand Weapon": {
+			"Fire Torch_Front_Right Hand Weapon": { "x": 214, "y": -630, "width": 212, "height": 202 }
+		},
+		"Orange Fur Black Ears_Front_Tail": {
+			"Orange Fur Black Ears_Front_Tail": { "x": 537.5, "y": -628, "width": 165, "height": 180 }
+		},
+		"Hunter Bow_Front_Back Weapon": {
+			"Hunter Bow_Front_Back Weapon": { "x": 629, "y": -600, "width": 308, "height": 244 }
+		},
+		"Orange Fur Black Ears_Front_Left Arm": {
+			"Orange Fur Black Ears_Front_Left Arm": { "x": 688.5, "y": -607, "width": 57, "height": 98 }
+		},
+		"Orange Fur Black Ears_Front_Left Finger": {
+			"Orange Fur Black Ears_Front_Left Finger": { "x": 717.5, "y": -666, "width": 59, "height": 68 }
+		},
+		"Orange Fur Black Ears_Front_Left Shoulder": {
+			"Orange Fur Black Ears_Front_Left Shoulder": { "x": 680, "y": -592.5, "width": 56, "height": 79 }
+		},
+		"Orange Fur Black Ears_Front_Left Foot": {
+			"Orange Fur Black Ears_Front_Left Foot": { "x": 707.5, "y": -774, "width": 79, "height": 58 }
+		},
+		"Orange Fur Black Ears_Front_Left Leg": {
+			"Orange Fur Black Ears_Front_Left Leg": { "x": 685, "y": -732.5, "width": 46, "height": 73 }
+		},
+		"Orange Fur Black Ears_Front_Left Thigh": {
+			"Orange Fur Black Ears_Front_Left Thigh": { "x": 672, "y": -682, "width": 74, "height": 106 }
+		},
+		"Orange Fur Black Ears_Front_Right Foot": {
+			"Orange Fur Black Ears_Front_Right Foot": { "x": 610, "y": -773, "width": 88, "height": 60 }
+		},
+		"Orange Fur Black Ears_Front_Right Leg": {
+			"Orange Fur Black Ears_Front_Right Leg": { "x": 610, "y": -732, "width": 74, "height": 78 }
+		},
+		"Orange Fur Black Ears_Front_Right Thigh": {
+			"Orange Fur Black Ears_Front_Right Thigh": { "x": 628.5, "y": -681.5, "width": 71, "height": 103 }
+		},
+		"Orange Fur Black Ears_Front_Right Shoulder": {
+			"Orange Fur Black Ears_Front_Right Shoulder": { "x": 598.5, "y": -590, "width": 61, "height": 84 }
+		},
+		"Orange Fur Black Ears_Front_Right Arm": {
+			"Orange Fur Black Ears_Front_Right Arm": { "x": 587, "y": -626.5, "width": 52, "height": 59 }
+		},
+		"Merchant Outfit_Front_Left Arm_Apparel": {
+			"Merchant Outfit_Front_Left Arm_Apparel": { "x": 688.5, "y": -625.5, "width": 57, "height": 43 }
+		},
+		"Merchant Outfit_Front_Left Shoulder_Apparel": {
+			"Merchant Outfit_Front_Left Shoulder_Apparel": { "x": 682, "y": -584.5, "width": 64, "height": 65 }
+		},
+		"Orange Fur Black Ears_Front_Body": {
+			"Orange Fur Black Ears_Front_Body": { "x": 646.5, "y": -608.5, "width": 103, "height": 159 }
+		},
+		"Merchant Outfit_Front_Left Shoe_Apparel": {
+			"Merchant Outfit_Front_Left Shoe_Apparel": { "x": 707.5, "y": -774, "width": 79, "height": 58 }
+		},
+		"Merchant Outfit_Front_Left Leg_Apparel": {
+			"Merchant Outfit_Front_Left Leg_Apparel": { "x": 686, "y": -724.5, "width": 64, "height": 107 }
+		},
+		"Merchant Outfit_Front_Left Thigh_Apparel": {
+			"Merchant Outfit_Front_Left Thigh_Apparel": { "x": 675, "y": -615, "width": 68, "height": 232 }
+		},
+		"Merchant Outfit_Front_Right Shoe_Apparel": {
+			"Merchant Outfit_Front_Right Shoe_Apparel": { "x": 610, "y": -773, "width": 88, "height": 60 }
+		},
+		"Merchant Outfit_Front_Right Tight_Apparel": {
+			"Merchant Outfit_Front_Right Tight_Apparel": { "x": 630, "y": -696.5, "width": 72, "height": 69 }
+		},
+		"Merchant Outfit_Front_Right Leg_Apparel": {
+			"Merchant Outfit_Front_Right Leg_Apparel": { "x": 606.5, "y": -738.5, "width": 81, "height": 77 }
+		},
+		"Merchant Outfit_Front_Body_Apparel": {
+			"Merchant Outfit_Front_Body_Apparel": { "x": 602, "y": -633, "width": 246, "height": 180 }
+		},
+		"Orange Fur Black Ears_Front_Right Palm": {
+			"Orange Fur Black Ears_Front_Right Palm": { "x": 581.5, "y": -666.5, "width": 71, "height": 75 }
+		},
+		"Merchant Outfit_Front_Right Shoulder_Apparel": {
+			"Merchant Outfit_Front_Right Shoulder_Apparel": { "x": 590.5, "y": -598, "width": 67, "height": 96 }
+		},
+		"Merchant Outfit_Front_Right Arm_Apparel": {
+			"Merchant Outfit_Front_Right Arm_Apparel": { "x": 584.5, "y": -634.5, "width": 53, "height": 55 }
+		},
+		"Orange Fur Black Ears_Front_Head": {
+			"Orange Fur Black Ears_Front_Head": { "x": 624.5, "y": -429, "width": 253, "height": 266 }
+		},
+		"Dark Green Eyes_Front_Eyes": {
+			"Dark Green Eyes_Front_Eyes": { "x": 674, "y": -481, "width": 132, "height": 50 }
+		},
+		"Monocles_Front_Face Accessory": {
+			"Monocles_Front_Face Accessory": { "x": 648, "y": -505.5, "width": 134, "height": 105 }
+		},
+		"Hygrocybe_Conica_Front_Hat": {
+			"Hygrocybe_Conica_Front_Hat": { "x": 631.5, "y": -332.5, "width": 353, "height": 221 }
+		},
+		"Copper Candle Holder_Front_Left Hand_Shield": {
+			"Copper Candle Holder_Front_Left Hand_Shield": { "x": 96.5, "y": -126.5, "width": 123, "height": 175 }
+		},
+		"Japanese Lantern_Front_Right Hand Weapon": {
+			"Japanese Lantern_Front_Right Hand Weapon": { "x": 239.5, "y": -641.5, "width": 147, "height": 123 }
+		},
+		"Shovel_Front_Left Hand Weapon": {
+			"Shovel_Front_Left Hand Weapon": { "x": 248, "y": -373, "width": 308, "height": 176 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
