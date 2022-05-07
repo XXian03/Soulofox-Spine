@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "D:/GitHub/Soulofox-Spine/Soulofox Town/Prop/PSD/_0009_leaf_4/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0009_leaf_4", "bone": "root", "attachment": "_0009_leaf_4" },
+	{ "name": "_0009_leaf_4_3", "bone": "root", "attachment": "_0009_leaf_4_3" },
+	{ "name": "_0009_leaf_4_2", "bone": "root", "attachment": "_0009_leaf_4_2" }
+],
+"skins": {
+	"default": {
+		"_0009_leaf_4": {
+			"_0009_leaf_4": { "x": 239, "y": -196, "width": 480, "height": 394 }
+		},
+		"_0009_leaf_4_3": {
+			"_0009_leaf_4_3": { "x": 88, "y": -442, "width": 44, "height": 200 }
+		},
+		"_0009_leaf_4_2": {
+			"_0009_leaf_4_2": { "x": 192, "y": -347, "width": 302, "height": 358 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "D:/GitHub/Soulofox-Spine/Soulofox Town/Prop/PSD/_0006_carrot_2/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0006_carrot_2", "bone": "root", "attachment": "_0006_carrot_2" },
+	{ "name": "_0006_carrot_2 Copy 2", "bone": "root", "attachment": "_0006_carrot_2 Copy 2" },
+	{ "name": "_0006_carrot_2 Copy", "bone": "root", "attachment": "_0006_carrot_2 Copy" }
+],
+"skins": {
+	"default": {
+		"_0006_carrot_2": {
+			"_0006_carrot_2": { "x": 182.5, "y": -289, "width": 255, "height": 356 }
+		},
+		"_0006_carrot_2 Copy 2": {
+			"_0006_carrot_2 Copy 2": { "x": 286.5, "y": -152, "width": 197, "height": 112 }
+		},
+		"_0006_carrot_2 Copy": {
+			"_0006_carrot_2 Copy": { "x": 98.5, "y": -108, "width": 199, "height": 218 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "D:/GitHub/Soulofox-Spine/Soulofox Town/Prop/PSD/_0016_leaf_10/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0016_leaf_10", "bone": "root", "attachment": "_0016_leaf_10" }
+],
+"skins": {
+	"default": {
+		"_0016_leaf_10": {
+			"_0016_leaf_10": { "x": 207.5, "y": -178.5, "width": 417, "height": 359 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
