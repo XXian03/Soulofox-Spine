@@ -1,0 +1,27 @@
+
+_0006_carrot_2.png
+size: 675, 259
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0006_carrot_2
+  rotate: true
+  xy: 2, 2
+  size: 255, 356
+  orig: 255, 356
+  offset: 0, 0
+  index: -1
+_0006_carrot_2 Copy
+  rotate: false
+  xy: 360, 39
+  size: 199, 218
+  orig: 199, 218
+  offset: 0, 0
+  index: -1
+_0006_carrot_2 Copy 2
+  rotate: true
+  xy: 561, 60
+  size: 197, 112
+  orig: 197, 112
+  offset: 0, 0
+  index: -1

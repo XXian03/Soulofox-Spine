@@ -1,0 +1,41 @@
+
+_0030_pinkcarrot.png
+size: 1564, 395
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0030_pinkcarrot
+  rotate: false
+  xy: 2, 42
+  size: 435, 351
+  orig: 437, 353
+  offset: 1, 1
+  index: -1
+_0030_pinkcarrot_leaf_1
+  rotate: true
+  xy: 773, 2
+  size: 177, 511
+  orig: 177, 511
+  offset: 0, 0
+  index: -1
+_0030_pinkcarrot_leaf_2
+  rotate: false
+  xy: 1303, 27
+  size: 259, 366
+  orig: 259, 366
+  offset: 0, 0
+  index: -1
+_0030_pinkcarrot_leaf_3
+  rotate: true
+  xy: 439, 54
+  size: 339, 332
+  orig: 339, 332
+  offset: 0, 0
+  index: -1
+_0030_pinkcarrot_leaf_4
+  rotate: true
+  xy: 773, 181
+  size: 212, 528
+  orig: 212, 528
+  offset: 0, 0
+  index: -1

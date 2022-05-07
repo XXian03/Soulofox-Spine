@@ -1,0 +1,18 @@
+_0029_whitecarrot.png
+size:1125,722
+filter:Linear,Linear
+pma:true
+Whitecarrot
+bounds:2,209,553,511
+_0029_whitecarrot _leaf_2
+bounds:557,221,222,499
+_0029_whitecarrot_leaf_1
+bounds:781,26,332,342
+rotate:90
+_0029_whitecarrot_leaf_3
+bounds:2,2,205,531
+rotate:90
+_0029_whitecarrot_leaf_4
+bounds:781,360,360,337
+offsets:0,0,400,337
+rotate:90

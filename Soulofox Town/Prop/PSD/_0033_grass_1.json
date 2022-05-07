@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0033_grass_1_12", "bone": "root", "attachment": "_0033_grass_1_12" },
+	{ "name": "_0033_grass_1_11", "bone": "root", "attachment": "_0033_grass_1_11" },
+	{ "name": "_0033_grass_1_10", "bone": "root", "attachment": "_0033_grass_1_10" },
+	{ "name": "_0033_grass_1_9", "bone": "root", "attachment": "_0033_grass_1_9" },
+	{ "name": "_0033_grass_1_8", "bone": "root", "attachment": "_0033_grass_1_8" },
+	{ "name": "_0033_grass_1_7", "bone": "root", "attachment": "_0033_grass_1_7" },
+	{ "name": "_0033_grass_1_6", "bone": "root", "attachment": "_0033_grass_1_6" },
+	{ "name": "_0033_grass_1_5", "bone": "root", "attachment": "_0033_grass_1_5" },
+	{ "name": "_0033_grass_1_4", "bone": "root", "attachment": "_0033_grass_1_4" },
+	{ "name": "_0033_grass_1_3", "bone": "root", "attachment": "_0033_grass_1_3" },
+	{ "name": "_0033_grass_1_2", "bone": "root", "attachment": "_0033_grass_1_2" },
+	{ "name": "_0033_grass_1_1", "bone": "root", "attachment": "_0033_grass_1_1" }
+],
+"skins": {
+	"default": {
+		"_0033_grass_1_12": {
+			"_0033_grass_1_12": { "x": 145.5, "y": -113.5, "width": 79, "height": 97 }
+		},
+		"_0033_grass_1_11": {
+			"_0033_grass_1_11": { "x": 97, "y": -132.5, "width": 40, "height": 67 }
+		},
+		"_0033_grass_1_10": {
+			"_0033_grass_1_10": { "x": 99.5, "y": -178, "width": 35, "height": 30 }
+		},
+		"_0033_grass_1_9": {
+			"_0033_grass_1_9": { "x": 135.5, "y": -168.5, "width": 67, "height": 29 }
+		},
+		"_0033_grass_1_8": {
+			"_0033_grass_1_8": { "x": 66, "y": -167.5, "width": 72, "height": 37 }
+		},
+		"_0033_grass_1_7": {
+			"_0033_grass_1_7": { "x": 141, "y": -84, "width": 46, "height": 70 }
+		},
+		"_0033_grass_1_6": {
+			"_0033_grass_1_6": { "x": 94.5, "y": -88, "width": 17, "height": 52 }
+		},
+		"_0033_grass_1_5": {
+			"_0033_grass_1_5": { "x": 77.5, "y": -104, "width": 39, "height": 114 }
+		},
+		"_0033_grass_1_4": {
+			"_0033_grass_1_4": { "x": 119, "y": -67, "width": 40, "height": 136 }
+		},
+		"_0033_grass_1_3": {
+			"_0033_grass_1_3": { "x": 162.5, "y": -143, "width": 87, "height": 30 }
+		},
+		"_0033_grass_1_2": {
+			"_0033_grass_1_2": { "x": 36.5, "y": -147.5, "width": 69, "height": 23 }
+		},
+		"_0033_grass_1_1": {
+			"_0033_grass_1_1": { "x": 39.5, "y": -122, "width": 81, "height": 62 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

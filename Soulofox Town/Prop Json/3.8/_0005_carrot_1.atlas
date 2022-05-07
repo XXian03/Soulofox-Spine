@@ -1,0 +1,34 @@
+
+_0005_carrot_1.png
+size: 1091, 529
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0005_carrot_1
+  rotate: false
+  xy: 2, 15
+  size: 447, 512
+  orig: 447, 512
+  offset: 0, 0
+  index: -1
+_0005_carrot_1 Copy
+  rotate: false
+  xy: 451, 143
+  size: 387, 384
+  orig: 387, 384
+  offset: 0, 0
+  index: -1
+_0005_carrot_1 Copy 2
+  rotate: false
+  xy: 451, 2
+  size: 393, 139
+  orig: 393, 139
+  offset: 0, 0
+  index: -1
+_0005_carrot_1 Copy 3
+  rotate: false
+  xy: 840, 219
+  size: 249, 308
+  orig: 249, 308
+  offset: 0, 0
+  index: -1

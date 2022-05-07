@@ -1,0 +1,48 @@
+
+_0002_leaf_1.png
+size: 1540, 297
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0002_leaf_1
+  rotate: false
+  xy: 443, 31
+  size: 558, 264
+  orig: 558, 264
+  offset: 0, 0
+  index: -1
+_0002_leaf_1_2
+  rotate: false
+  xy: 1480, 65
+  size: 58, 230
+  orig: 58, 230
+  offset: 0, 0
+  index: -1
+_0002_leaf_1_3
+  rotate: false
+  xy: 2, 14
+  size: 439, 281
+  orig: 439, 281
+  offset: 0, 0
+  index: -1
+_0002_leaf_1_4
+  rotate: true
+  xy: 1241, 8
+  size: 44, 259
+  orig: 44, 259
+  offset: 0, 0
+  index: -1
+_0002_leaf_1_5
+  rotate: false
+  xy: 1003, 54
+  size: 475, 241
+  orig: 475, 241
+  offset: 0, 0
+  index: -1
+_0002_leaf_1_6
+  rotate: true
+  xy: 1003, 2
+  size: 50, 236
+  orig: 50, 236
+  offset: 0, 0
+  index: -1

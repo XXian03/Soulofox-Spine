@@ -1,0 +1,48 @@
+
+_0039_grass_7.png
+size: 342, 166
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0039_grass_7
+  rotate: true
+  xy: 176, 93
+  size: 71, 164
+  orig: 71, 164
+  offset: 0, 0
+  index: -1
+_0039_grass_7_1
+  rotate: false
+  xy: 2, 26
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+_0039_grass_7_2
+  rotate: false
+  xy: 2, 109
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+_0039_grass_7_3
+  rotate: true
+  xy: 113, 10
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+_0039_grass_7_4
+  rotate: true
+  xy: 221, 2
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+_0039_grass_7_5
+  rotate: false
+  xy: 79, 107
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1

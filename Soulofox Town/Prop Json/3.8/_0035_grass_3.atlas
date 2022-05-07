@@ -1,0 +1,41 @@
+
+_0035_grass_3.png
+size: 128, 220
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0035_grass_3_1
+  rotate: false
+  xy: 2, 2
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+_0035_grass_3_2
+  rotate: false
+  xy: 2, 83
+  size: 95, 30
+  orig: 95, 30
+  offset: 0, 0
+  index: -1
+_0035_grass_3_3
+  rotate: false
+  xy: 88, 32
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+_0035_grass_3_4
+  rotate: false
+  xy: 2, 38
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+_0035_grass_3_5
+  rotate: false
+  xy: 2, 115
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1

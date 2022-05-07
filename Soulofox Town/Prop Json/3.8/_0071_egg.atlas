@@ -1,0 +1,27 @@
+
+_0071_egg.png
+size: 480, 232
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0071_egg
+  rotate: false
+  xy: 2, 2
+  size: 337, 228
+  orig: 337, 228
+  offset: 0, 0
+  index: -1
+_0071_egg_1
+  rotate: true
+  xy: 341, 115
+  size: 115, 137
+  orig: 115, 137
+  offset: 0, 0
+  index: -1
+_0071_egg_2
+  rotate: true
+  xy: 341, 9
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1

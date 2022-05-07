@@ -1,0 +1,20 @@
+
+_0017_leaf_12.png
+size: 620, 268
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0017_leaf_12
+  rotate: false
+  xy: 562, 38
+  size: 56, 228
+  orig: 56, 228
+  offset: 0, 0
+  index: -1
+_0017_leaf_12 Copy
+  rotate: false
+  xy: 2, 2
+  size: 558, 264
+  orig: 558, 264
+  offset: 0, 0
+  index: -1

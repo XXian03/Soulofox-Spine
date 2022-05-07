@@ -1,0 +1,20 @@
+
+_0013_leaf_8.png
+size: 408, 306
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0013_leaf_8
+  rotate: false
+  xy: 362, 104
+  size: 44, 200
+  orig: 44, 200
+  offset: 0, 0
+  index: -1
+_0013_leaf_8 Copy
+  rotate: true
+  xy: 2, 2
+  size: 302, 358
+  orig: 302, 358
+  offset: 0, 0
+  index: -1

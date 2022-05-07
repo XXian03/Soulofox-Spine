@@ -1,0 +1,41 @@
+
+_0038_grass_6.png
+size: 218, 46
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0038_grass_6_1
+  rotate: false
+  xy: 2, 4
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: -1
+_0038_grass_6_2
+  rotate: true
+  xy: 196, 9
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+_0038_grass_6_3
+  rotate: true
+  xy: 147, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+_0038_grass_6_4
+  rotate: false
+  xy: 120, 5
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+_0038_grass_6_5
+  rotate: false
+  xy: 172, 12
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+_0008_leaf_3.png
+size: 736, 370
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0008_leaf_3
+  rotate: false
+  xy: 2, 9
+  size: 417, 359
+  orig: 417, 359
+  offset: 0, 0
+  index: -1
+_0008_leaf_3_2
+  rotate: false
+  xy: 421, 58
+  size: 313, 310
+  orig: 313, 310
+  offset: 0, 0
+  index: -1
+_0008_leaf_3_3
+  rotate: true
+  xy: 421, 2
+  size: 54, 251
+  orig: 54, 251
+  offset: 0, 0
+  index: -1

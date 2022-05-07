@@ -1,0 +1,14 @@
+_0035_grass_3.png
+size:128,220
+filter:Linear,Linear
+pma:true
+_0035_grass_3_1
+bounds:2,2,69,34
+_0035_grass_3_2
+bounds:2,83,95,30
+_0035_grass_3_3
+bounds:88,32,36,49
+_0035_grass_3_4
+bounds:2,38,84,43
+_0035_grass_3_5
+bounds:2,115,124,103

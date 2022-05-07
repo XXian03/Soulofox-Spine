@@ -1,0 +1,41 @@
+
+_0029_whitecarrot.png
+size: 1125, 722
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Whitecarrot
+  rotate: false
+  xy: 2, 209
+  size: 553, 511
+  orig: 553, 511
+  offset: 0, 0
+  index: -1
+_0029_whitecarrot _leaf_2
+  rotate: false
+  xy: 557, 221
+  size: 222, 499
+  orig: 222, 499
+  offset: 0, 0
+  index: -1
+_0029_whitecarrot_leaf_1
+  rotate: true
+  xy: 781, 26
+  size: 332, 342
+  orig: 332, 342
+  offset: 0, 0
+  index: -1
+_0029_whitecarrot_leaf_3
+  rotate: true
+  xy: 2, 2
+  size: 205, 531
+  orig: 205, 531
+  offset: 0, 0
+  index: -1
+_0029_whitecarrot_leaf_4
+  rotate: true
+  xy: 781, 360
+  size: 360, 337
+  orig: 400, 337
+  offset: 0, 0
+  index: -1

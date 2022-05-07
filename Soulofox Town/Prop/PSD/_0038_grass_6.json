@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox Town/Prop/PSD/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0038_grass_6_1", "bone": "root", "attachment": "_0038_grass_6_1" },
+	{ "name": "_0038_grass_6_2", "bone": "root", "attachment": "_0038_grass_6_2" },
+	{ "name": "_0038_grass_6_3", "bone": "root", "attachment": "_0038_grass_6_3" },
+	{ "name": "_0038_grass_6_4", "bone": "root", "attachment": "_0038_grass_6_4" },
+	{ "name": "_0038_grass_6_5", "bone": "root", "attachment": "_0038_grass_6_5" }
+],
+"skins": {
+	"default": {
+		"_0038_grass_6_1": {
+			"_0038_grass_6_1": { "x": 57, "y": -55, "width": 116, "height": 40 }
+		},
+		"_0038_grass_6_2": {
+			"_0038_grass_6_2": { "x": 88.5, "y": -34, "width": 35, "height": 20 }
+		},
+		"_0038_grass_6_3": {
+			"_0038_grass_6_3": { "x": 32, "y": -28.5, "width": 42, "height": 23 }
+		},
+		"_0038_grass_6_4": {
+			"_0038_grass_6_4": { "x": 71.5, "y": -18.5, "width": 25, "height": 39 }
+		},
+		"_0038_grass_6_5": {
+			"_0038_grass_6_5": { "x": 55, "y": -23, "width": 22, "height": 32 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

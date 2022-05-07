@@ -1,0 +1,52 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox Town/Prop/PSD/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0034_grass_2_10", "bone": "root", "attachment": "_0034_grass_2_10" },
+	{ "name": "_0034_grass_2_9", "bone": "root", "attachment": "_0034_grass_2_9" },
+	{ "name": "_0034_grass_2_8", "bone": "root", "attachment": "_0034_grass_2_8" },
+	{ "name": "_0034_grass_2_7", "bone": "root", "attachment": "_0034_grass_2_7" },
+	{ "name": "_0034_grass_2_6", "bone": "root", "attachment": "_0034_grass_2_6" },
+	{ "name": "_0034_grass_2_5", "bone": "root", "attachment": "_0034_grass_2_5" },
+	{ "name": "_0034_grass_2_4", "bone": "root", "attachment": "_0034_grass_2_4" },
+	{ "name": "_0034_grass_2_3", "bone": "root", "attachment": "_0034_grass_2_3" },
+	{ "name": "_0034_grass_2_2", "bone": "root", "attachment": "_0034_grass_2_2" },
+	{ "name": "_0034_grass_2_1", "bone": "root", "attachment": "_0034_grass_2_1" }
+],
+"skins": {
+	"default": {
+		"_0034_grass_2_10": {
+			"_0034_grass_2_10": { "x": 85, "y": -106.5, "width": 68, "height": 45 }
+		},
+		"_0034_grass_2_9": {
+			"_0034_grass_2_9": { "x": 31, "y": -85, "width": 60, "height": 22 }
+		},
+		"_0034_grass_2_8": {
+			"_0034_grass_2_8": { "x": 53.5, "y": -56, "width": 53, "height": 42 }
+		},
+		"_0034_grass_2_7": {
+			"_0034_grass_2_7": { "x": 141.5, "y": -91.5, "width": 59, "height": 23 }
+		},
+		"_0034_grass_2_6": {
+			"_0034_grass_2_6": { "x": 158, "y": -68.5, "width": 62, "height": 33 }
+		},
+		"_0034_grass_2_5": {
+			"_0034_grass_2_5": { "x": 139, "y": -48, "width": 74, "height": 74 }
+		},
+		"_0034_grass_2_4": {
+			"_0034_grass_2_4": { "x": 115, "y": -35.5, "width": 36, "height": 73 }
+		},
+		"_0034_grass_2_3": {
+			"_0034_grass_2_3": { "x": 121.5, "y": -106, "width": 57, "height": 48 }
+		},
+		"_0034_grass_2_2": {
+			"_0034_grass_2_2": { "x": 41, "y": -72.5, "width": 84, "height": 39 }
+		},
+		"_0034_grass_2_1": {
+			"_0034_grass_2_1": { "x": 72.5, "y": -49.5, "width": 71, "height": 77 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,41 @@
+
+_0064_yellowflower.png
+size: 164, 63
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0064_yellowflower
+  rotate: true
+  xy: 70, 5
+  size: 9, 50
+  orig: 9, 50
+  offset: 0, 0
+  index: -1
+_0064_yellowflower_2
+  rotate: true
+  xy: 70, 16
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+_0064_yellowflower_3
+  rotate: false
+  xy: 115, 26
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+_0064_yellowflower_4
+  rotate: false
+  xy: 122, 2
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+_0064_yellowflower_5
+  rotate: false
+  xy: 2, 6
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1

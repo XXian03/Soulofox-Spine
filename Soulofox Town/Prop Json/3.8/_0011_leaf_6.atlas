@@ -1,0 +1,20 @@
+
+_0011_leaf_6.png
+size: 371, 314
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0011_leaf_6
+  rotate: false
+  xy: 317, 58
+  size: 52, 254
+  orig: 52, 254
+  offset: 0, 0
+  index: -1
+_0011_leaf_6 Copy
+  rotate: false
+  xy: 2, 2
+  size: 313, 310
+  orig: 313, 310
+  offset: 0, 0
+  index: -1
