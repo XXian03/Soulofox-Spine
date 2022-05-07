@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0030_pinkcarrot", "bone": "root", "attachment": "_0030_pinkcarrot" },
+	{ "name": "_0030_pinkcarrot_leaf_4", "bone": "root", "attachment": "_0030_pinkcarrot_leaf_4" },
+	{ "name": "_0030_pinkcarrot_leaf_3", "bone": "root", "attachment": "_0030_pinkcarrot_leaf_3" },
+	{ "name": "_0030_pinkcarrot_leaf_2", "bone": "root", "attachment": "_0030_pinkcarrot_leaf_2" },
+	{ "name": "_0030_pinkcarrot_leaf_1", "bone": "root", "attachment": "_0030_pinkcarrot_leaf_1" }
+],
+"skins": {
+	"default": {
+		"_0030_pinkcarrot": {
+			"_0030_pinkcarrot": { "x": 250.5, "y": -630.5, "width": 437, "height": 353 }
+		},
+		"_0030_pinkcarrot_leaf_4": {
+			"_0030_pinkcarrot_leaf_4": { "x": 341, "y": -263, "width": 212, "height": 528 }
+		},
+		"_0030_pinkcarrot_leaf_3": {
+			"_0030_pinkcarrot_leaf_3": { "x": 412.5, "y": -401, "width": 339, "height": 332 }
+		},
+		"_0030_pinkcarrot_leaf_2": {
+			"_0030_pinkcarrot_leaf_2": { "x": 128.5, "y": -384, "width": 259, "height": 366 }
+		},
+		"_0030_pinkcarrot_leaf_1": {
+			"_0030_pinkcarrot_leaf_1": { "x": 168.5, "y": -265.5, "width": 177, "height": 511 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,12 @@
+_0071_egg.png
+size:480,232
+filter:Linear,Linear
+pma:true
+_0071_egg
+bounds:2,2,337,228
+_0071_egg_1
+bounds:341,115,115,137
+rotate:90
+_0071_egg_2
+bounds:341,9,104,115
+rotate:90

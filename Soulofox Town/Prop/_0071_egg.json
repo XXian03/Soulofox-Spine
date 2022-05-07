@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0071_egg", "bone": "root", "attachment": "_0071_egg" },
+	{ "name": "_0071_egg_1", "bone": "root", "attachment": "_0071_egg_1" },
+	{ "name": "_0071_egg_2", "bone": "root", "attachment": "_0071_egg_2" }
+],
+"skins": {
+	"default": {
+		"_0071_egg": {
+			"_0071_egg": { "x": 167.5, "y": -117, "width": 337, "height": 228 }
+		},
+		"_0071_egg_1": {
+			"_0071_egg_1": { "x": 127.5, "y": -67.5, "width": 115, "height": 137 }
+		},
+		"_0071_egg_2": {
+			"_0071_egg_2": { "x": 209, "y": -87.5, "width": 104, "height": 115 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

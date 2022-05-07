@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0064_yellowflower", "bone": "root", "attachment": "_0064_yellowflower" },
+	{ "name": "_0064_yellowflower_2", "bone": "root", "attachment": "_0064_yellowflower_2" },
+	{ "name": "_0064_yellowflower_3", "bone": "root", "attachment": "_0064_yellowflower_3" },
+	{ "name": "_0064_yellowflower_4", "bone": "root", "attachment": "_0064_yellowflower_4" },
+	{ "name": "_0064_yellowflower_5", "bone": "root", "attachment": "_0064_yellowflower_5" }
+],
+"skins": {
+	"default": {
+		"_0064_yellowflower": {
+			"_0064_yellowflower": { "x": 45.5, "y": -66, "width": 9, "height": 50 }
+		},
+		"_0064_yellowflower_2": {
+			"_0064_yellowflower_2": { "x": 66.5, "y": -79.5, "width": 45, "height": 43 }
+		},
+		"_0064_yellowflower_3": {
+			"_0064_yellowflower_3": { "x": 22.5, "y": -83.5, "width": 47, "height": 35 }
+		},
+		"_0064_yellowflower_4": {
+			"_0064_yellowflower_4": { "x": 64, "y": -56, "width": 32, "height": 22 }
+		},
+		"_0064_yellowflower_5": {
+			"_0064_yellowflower_5": { "x": 40, "y": -26.5, "width": 66, "height": 55 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

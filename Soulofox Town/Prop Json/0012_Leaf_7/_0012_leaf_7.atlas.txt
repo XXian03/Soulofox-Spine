@@ -1,0 +1,8 @@
+_0012_leaf_7.png
+size:529,245
+filter:Linear,Linear
+pma:true
+_0012_leaf_7
+bounds:479,7,48,236
+_0012_leaf_7_2
+bounds:2,2,475,241

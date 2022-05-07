@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Whitecarrot", "bone": "root", "attachment": "Whitecarrot" },
+	{ "name": "_0029_whitecarrot_leaf_4", "bone": "root", "attachment": "_0029_whitecarrot_leaf_4" },
+	{ "name": "_0029_whitecarrot_leaf_3", "bone": "root", "attachment": "_0029_whitecarrot_leaf_3" },
+	{ "name": "_0029_whitecarrot _leaf_2", "bone": "root", "attachment": "_0029_whitecarrot _leaf_2" },
+	{ "name": "_0029_whitecarrot_leaf_1", "bone": "root", "attachment": "_0029_whitecarrot_leaf_1" }
+],
+"skins": {
+	"default": {
+		"Whitecarrot": {
+			"Whitecarrot": { "x": 370.5, "y": -586.5, "width": 553, "height": 511 }
+		},
+		"_0029_whitecarrot_leaf_4": {
+			"_0029_whitecarrot_leaf_4": { "x": 199, "y": -357.5, "width": 400, "height": 337 }
+		},
+		"_0029_whitecarrot_leaf_3": {
+			"_0029_whitecarrot_leaf_3": { "x": 300.5, "y": -264.5, "width": 205, "height": 531 }
+		},
+		"_0029_whitecarrot _leaf_2": {
+			"_0029_whitecarrot _leaf_2": { "x": 464, "y": -260.5, "width": 222, "height": 499 }
+		},
+		"_0029_whitecarrot_leaf_1": {
+			"_0029_whitecarrot_leaf_1": { "x": 554, "y": -353, "width": 332, "height": 342 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

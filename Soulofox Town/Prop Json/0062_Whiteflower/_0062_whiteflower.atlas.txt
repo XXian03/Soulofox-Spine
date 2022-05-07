@@ -1,0 +1,13 @@
+_0062_whiteflower.png
+size:136,106
+filter:Linear,Linear
+pma:true
+_0062_whiteflower_1
+bounds:2,33,71,71
+_0062_whiteflower_2
+bounds:75,18,42,86
+_0062_whiteflower_3
+bounds:2,2,29,58
+rotate:90
+_0062_whiteflower_4
+bounds:119,17,15,87

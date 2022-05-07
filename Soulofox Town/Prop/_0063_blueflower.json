@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "_0063_blueflower", "bone": "root", "attachment": "_0063_blueflower" },
+	{ "name": "_0063_blueflower_2", "bone": "root", "attachment": "_0063_blueflower_2" },
+	{ "name": "_0063_blueflower_3", "bone": "root", "attachment": "_0063_blueflower_3" },
+	{ "name": "_0063_blueflower_4", "bone": "root", "attachment": "_0063_blueflower_4" }
+],
+"skins": {
+	"default": {
+		"_0063_blueflower": {
+			"_0063_blueflower": { "x": 42.5, "y": -65, "width": 9, "height": 36 }
+		},
+		"_0063_blueflower_2": {
+			"_0063_blueflower_2": { "x": 51, "y": -78, "width": 34, "height": 38 }
+		},
+		"_0063_blueflower_3": {
+			"_0063_blueflower_3": { "x": 24, "y": -74, "width": 32, "height": 44 }
+		},
+		"_0063_blueflower_4": {
+			"_0063_blueflower_4": { "x": 35, "y": -28, "width": 72, "height": 58 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
