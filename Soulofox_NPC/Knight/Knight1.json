@@ -1,0 +1,88 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox_NPC/Knight/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Knight1_Left Hand", "bone": "root", "attachment": "Knight1_Left Hand" },
+	{ "name": "Knight1_Left Palm", "bone": "root", "attachment": "Knight1_Left Palm" },
+	{ "name": "Knight1_Left Arm", "bone": "root", "attachment": "Knight1_Left Arm" },
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" },
+	{ "name": "Knight1_Left finger", "bone": "root", "attachment": "Knight1_Left finger" },
+	{ "name": "Knight1_Cloak", "bone": "root", "attachment": "Knight1_Cloak" },
+	{ "name": "Knight1_Left Leg", "bone": "root", "attachment": "Knight1_Left Leg" },
+	{ "name": "Knight1_Left Foot", "bone": "root", "attachment": "Knight1_Left Foot" },
+	{ "name": "Knight1_Right Leg", "bone": "root", "attachment": "Knight1_Right Leg" },
+	{ "name": "Knight1_Right Foot", "bone": "root", "attachment": "Knight1_Right Foot" },
+	{ "name": "Knight1_LeftTtight", "bone": "root", "attachment": "Knight1_LeftTtight" },
+	{ "name": "Knight1_RighttTtight", "bone": "root", "attachment": "Knight1_RighttTtight" },
+	{ "name": "Knight1_Body", "bone": "root", "attachment": "Knight1_Body" },
+	{ "name": "Knight1_Right arm", "bone": "root", "attachment": "Knight1_Right arm" },
+	{ "name": "Knight1_Right Hand", "bone": "root", "attachment": "Knight1_Right Hand" },
+	{ "name": "Knight1_Right Palm", "bone": "root", "attachment": "Knight1_Right Palm" },
+	{ "name": "Knight1_Right ear", "bone": "root", "attachment": "Knight1_Right ear" },
+	{ "name": "Knight1_Head", "bone": "root", "attachment": "Knight1_Head" },
+	{ "name": "Knight1_Left ear", "bone": "root", "attachment": "Knight1_Left ear" }
+],
+"skins": {
+	"default": {
+		"Knight1_Left Hand": {
+			"Knight1_Left Hand": { "x": 593, "y": -429, "width": 120, "height": 88 }
+		},
+		"Knight1_Left Palm": {
+			"Knight1_Left Palm": { "x": 660, "y": -384.5, "width": 90, "height": 83 }
+		},
+		"Knight1_Left Arm": {
+			"Knight1_Left Arm": { "x": 530, "y": -391.5, "width": 92, "height": 137 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 669, "y": -486, "width": 198, "height": 496 }
+		},
+		"Knight1_Left finger": {
+			"Knight1_Left finger": { "x": 667.5, "y": -370.5, "width": 83, "height": 83 }
+		},
+		"Knight1_Cloak": {
+			"Knight1_Cloak": { "x": 280.5, "y": -476, "width": 473, "height": 418 }
+		},
+		"Knight1_Left Leg": {
+			"Knight1_Left Leg": { "x": 519, "y": -656, "width": 70, "height": 108 }
+		},
+		"Knight1_Left Foot": {
+			"Knight1_Left Foot": { "x": 542, "y": -704, "width": 98, "height": 54 }
+		},
+		"Knight1_Right Leg": {
+			"Knight1_Right Leg": { "x": 392.5, "y": -648.5, "width": 87, "height": 103 }
+		},
+		"Knight1_Right Foot": {
+			"Knight1_Right Foot": { "x": 345, "y": -698.5, "width": 114, "height": 65 }
+		},
+		"Knight1_LeftTtight": {
+			"Knight1_LeftTtight": { "x": 427.5, "y": -455.5, "width": 247, "height": 369 }
+		},
+		"Knight1_RighttTtight": {
+			"Knight1_RighttTtight": { "x": 410, "y": -563, "width": 108, "height": 136 }
+		},
+		"Knight1_Body": {
+			"Knight1_Body": { "x": 442, "y": -451, "width": 226, "height": 374 }
+		},
+		"Knight1_Right arm": {
+			"Knight1_Right arm": { "x": 334, "y": -369, "width": 122, "height": 200 }
+		},
+		"Knight1_Right Hand": {
+			"Knight1_Right Hand": { "x": 286, "y": -447.5, "width": 78, "height": 139 }
+		},
+		"Knight1_Right Palm": {
+			"Knight1_Right Palm": { "x": 306, "y": -541, "width": 94, "height": 102 }
+		},
+		"Knight1_Right ear": {
+			"Knight1_Right ear": { "x": 538.5, "y": -133.5, "width": 103, "height": 99 }
+		},
+		"Knight1_Head": {
+			"Knight1_Head": { "x": 458.5, "y": -210, "width": 293, "height": 268 }
+		},
+		"Knight1_Left ear": {
+			"Knight1_Left ear": { "x": 437, "y": -109.5, "width": 120, "height": 131 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

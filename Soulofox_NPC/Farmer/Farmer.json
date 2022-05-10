@@ -1,0 +1,72 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox_NPC/Farmer/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Farmer_sickle", "bone": "root", "attachment": "Farmer_sickle" },
+	{ "name": "Farmer_left shoulder", "bone": "root", "attachment": "Farmer_left shoulder" },
+	{ "name": "Farmer_left palm", "bone": "root", "attachment": "Farmer_left palm" },
+	{ "name": "Farmer_left sleeve", "bone": "root", "attachment": "Farmer_left sleeve" },
+	{ "name": "Farmer_right shoes", "bone": "root", "attachment": "Farmer_right shoes" },
+	{ "name": "Farmer_left shoes", "bone": "root", "attachment": "Farmer_left shoes" },
+	{ "name": "Farmer_right thigh", "bone": "root", "attachment": "Farmer_right thigh" },
+	{ "name": "Farmer_left thigh", "bone": "root", "attachment": "Farmer_left thigh" },
+	{ "name": "Farmer_body", "bone": "root", "attachment": "Farmer_body" },
+	{ "name": "Farmer_right shoulder", "bone": "root", "attachment": "Farmer_right shoulder" },
+	{ "name": "Farmer_right sleeve", "bone": "root", "attachment": "Farmer_right sleeve" },
+	{ "name": "Farmer_right hand", "bone": "root", "attachment": "Farmer_right hand" },
+	{ "name": "Farmer_right palm", "bone": "root", "attachment": "Farmer_right palm" },
+	{ "name": "Farmer_head", "bone": "root", "attachment": "Farmer_head" },
+	{ "name": "Farmer_bucket", "bone": "root", "attachment": "Farmer_bucket" }
+],
+"skins": {
+	"default": {
+		"Farmer_sickle": {
+			"Farmer_sickle": { "x": 376, "y": -376.5, "width": 574, "height": 341 }
+		},
+		"Farmer_left shoulder": {
+			"Farmer_left shoulder": { "x": 516.5, "y": -503, "width": 117, "height": 148 }
+		},
+		"Farmer_left palm": {
+			"Farmer_left palm": { "x": 568.5, "y": -587, "width": 93, "height": 104 }
+		},
+		"Farmer_left sleeve": {
+			"Farmer_left sleeve": { "x": 550, "y": -574, "width": 102, "height": 126 }
+		},
+		"Farmer_right shoes": {
+			"Farmer_right shoes": { "x": 373, "y": -750, "width": 98, "height": 68 }
+		},
+		"Farmer_left shoes": {
+			"Farmer_left shoes": { "x": 494, "y": -746.5, "width": 94, "height": 71 }
+		},
+		"Farmer_right thigh": {
+			"Farmer_right thigh": { "x": 397.5, "y": -676, "width": 93, "height": 110 }
+		},
+		"Farmer_left thigh": {
+			"Farmer_left thigh": { "x": 482, "y": -677.5, "width": 92, "height": 103 }
+		},
+		"Farmer_body": {
+			"Farmer_body": { "x": 428, "y": -531.5, "width": 220, "height": 285 }
+		},
+		"Farmer_right shoulder": {
+			"Farmer_right shoulder": { "x": 320, "y": -499, "width": 110, "height": 158 }
+		},
+		"Farmer_right sleeve": {
+			"Farmer_right sleeve": { "x": 290, "y": -555, "width": 110, "height": 176 }
+		},
+		"Farmer_right hand": {
+			"Farmer_right hand": { "x": 251.5, "y": -513, "width": 87, "height": 130 }
+		},
+		"Farmer_right palm": {
+			"Farmer_right palm": { "x": 245, "y": -436, "width": 106, "height": 100 }
+		},
+		"Farmer_head": {
+			"Farmer_head": { "x": 398.5, "y": -284.5, "width": 345, "height": 275 }
+		},
+		"Farmer_bucket": {
+			"Farmer_bucket": { "x": 579, "y": -665.5, "width": 110, "height": 175 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

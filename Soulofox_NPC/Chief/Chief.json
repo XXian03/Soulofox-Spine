@@ -1,0 +1,64 @@
+{ "skeleton": { "images": "C:/Users/User/Documents/GitHub/Soulofox-Spine/Soulofox_NPC/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Chief_tail", "bone": "root", "attachment": "Chief_tail" },
+	{ "name": "Chief_left feet", "bone": "root", "attachment": "Chief_left feet" },
+	{ "name": "Chief_right feet", "bone": "root", "attachment": "Chief_right feet" },
+	{ "name": "Chief_right hand", "bone": "root", "attachment": "Chief_right hand" },
+	{ "name": "Chief_body", "bone": "root", "attachment": "Chief_body" },
+	{ "name": "Chief_Right shoulder", "bone": "root", "attachment": "Chief_Right shoulder" },
+	{ "name": "Chief_left shoulder", "bone": "root", "attachment": "Chief_left shoulder" },
+	{ "name": "Chief_left hand", "bone": "root", "attachment": "Chief_left hand" },
+	{ "name": "Chief_weapon", "bone": "root", "attachment": "Chief_weapon" },
+	{ "name": "Chief_left palm", "bone": "root", "attachment": "Chief_left palm" },
+	{ "name": "Chief_left ear", "bone": "root", "attachment": "Chief_left ear" },
+	{ "name": "Chief_head", "bone": "root", "attachment": "Chief_head" },
+	{ "name": "Chief_right ear", "bone": "root", "attachment": "Chief_right ear" }
+],
+"skins": {
+	"default": {
+		"Chief_tail": {
+			"Chief_tail": { "x": 194, "y": -588, "width": 254, "height": 232 }
+		},
+		"Chief_left feet": {
+			"Chief_left feet": { "x": 442.5, "y": -741.5, "width": 119, "height": 85 }
+		},
+		"Chief_right feet": {
+			"Chief_right feet": { "x": 311, "y": -742.5, "width": 128, "height": 83 }
+		},
+		"Chief_right hand": {
+			"Chief_right hand": { "x": 266.5, "y": -558.5, "width": 71, "height": 103 }
+		},
+		"Chief_body": {
+			"Chief_body": { "x": 395.5, "y": -589.5, "width": 249, "height": 367 }
+		},
+		"Chief_Right shoulder": {
+			"Chief_Right shoulder": { "x": 290, "y": -475.5, "width": 148, "height": 153 }
+		},
+		"Chief_left shoulder": {
+			"Chief_left shoulder": { "x": 487.5, "y": -490.5, "width": 127, "height": 165 }
+		},
+		"Chief_left hand": {
+			"Chief_left hand": { "x": 510, "y": -570.5, "width": 86, "height": 77 }
+		},
+		"Chief_weapon": {
+			"Chief_weapon": { "x": 534, "y": -693, "width": 120, "height": 186 }
+		},
+		"Chief_left palm": {
+			"Chief_left palm": { "x": 527.5, "y": -610, "width": 113, "height": 80 }
+		},
+		"Chief_left ear": {
+			"Chief_left ear": { "x": 465.5, "y": -249, "width": 79, "height": 82 }
+		},
+		"Chief_head": {
+			"Chief_head": { "x": 386.5, "y": -310, "width": 311, "height": 252 }
+		},
+		"Chief_right ear": {
+			"Chief_right ear": { "x": 275, "y": -283.5, "width": 118, "height": 105 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

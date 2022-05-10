@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "C:/Users/User/Desktop/Soulofox Town/Prop/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Paper", "bone": "root" },
+	{ "name": "_0070_fountain", "bone": "root", "attachment": "_0070_fountain" },
+	{ "name": "F_1", "bone": "root", "attachment": "F_1" },
+	{ "name": "F_2", "bone": "root", "attachment": "F_2" },
+	{ "name": "F_3", "bone": "root", "attachment": "F_3" },
+	{ "name": "F_4", "bone": "root", "attachment": "F_4" },
+	{ "name": "W_1", "bone": "root", "attachment": "W_1" },
+	{ "name": "W_2", "bone": "root", "attachment": "W_2" },
+	{ "name": "W_3", "bone": "root", "attachment": "W_3" },
+	{ "name": "W_4", "bone": "root", "attachment": "W_4" },
+	{ "name": "B_1", "bone": "root", "attachment": "B_1" },
+	{ "name": "B_2", "bone": "root", "attachment": "B_2" },
+	{ "name": "B_3", "bone": "root", "attachment": "B_3" },
+	{ "name": "B_4", "bone": "root", "attachment": "B_4" }
+],
+"skins": {
+	"default": {
+		"Paper": {
+			"Paper": { "x": 358.5, "y": -353, "width": 719, "height": 708 }
+		},
+		"_0070_fountain": {
+			"_0070_fountain": { "x": 358.5, "y": -466, "width": 719, "height": 482 }
+		},
+		"F_1": {
+			"F_1": { "x": 362, "y": -258, "width": 296, "height": 486 }
+		},
+		"F_2": {
+			"F_2": { "x": 366.5, "y": -258, "width": 311, "height": 486 }
+		},
+		"F_3": {
+			"F_3": { "x": 366.5, "y": -259, "width": 333, "height": 488 }
+		},
+		"F_4": {
+			"F_4": { "x": 364, "y": -259, "width": 338, "height": 488 }
+		},
+		"W_1": {
+			"W_1": { "x": 369.5, "y": -457, "width": 423, "height": 60 }
+		},
+		"W_2": {
+			"W_2": { "x": 368.5, "y": -453.5, "width": 465, "height": 75 }
+		},
+		"W_3": {
+			"W_3": { "x": 362, "y": -452, "width": 496, "height": 70 }
+		},
+		"W_4": {
+			"W_4": { "x": 353.5, "y": -453.5, "width": 477, "height": 67 }
+		},
+		"B_1": {
+			"B_1": { "x": 366.5, "y": -394.5, "width": 363, "height": 269 }
+		},
+		"B_2": {
+			"B_2": { "x": 365, "y": -396.5, "width": 394, "height": 277 }
+		},
+		"B_3": {
+			"B_3": { "x": 365.5, "y": -395.5, "width": 423, "height": 281 }
+		},
+		"B_4": {
+			"B_4": { "x": 365, "y": -394.5, "width": 434, "height": 281 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
